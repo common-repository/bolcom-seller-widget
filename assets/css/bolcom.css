@@ -1,0 +1,56 @@
+.bolcom img {
+	width: 150px;
+	vertical-align:top;
+}
+
+.bolcom li {
+	list-style-position:outside;
+}
+
+.bolcom .listing {
+    float:left;
+	width:50px;
+	margin-top:5px;
+	margin-right:5px;
+	margin-bottom:5px;
+}
+
+.bolcom .listing img {
+    border:1px solid #999999;
+}
+
+.bolcom .textf {
+	margin-top:5px;
+	margin-left:60px;
+}
+
+.bolcom .textf a {
+    text-decoration:none;
+    color: #444;
+    font-weight:bold;
+}
+
+.bolcom .tiled {
+    float:left;
+	width:50px;
+	margin-right:5px;
+	margin-bottom:5px;
+}
+
+.bolcom .tiled img {
+    border:1px solid #999999;
+	height:69px;
+}
+
+.bolcom p.title  {
+	margin-bottom:6px;
+	font-weight:bold;
+}
+
+.bolcom p.footer  {
+    margin-top:5px;
+}
+
+.bolcom p.footer a  {
+    font-size:12px;
+}

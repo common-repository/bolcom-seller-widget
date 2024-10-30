@@ -1,0 +1,93 @@
+# Copyright (C) 2013 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP bolcom\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wordpress-seo\n"
+"POT-Creation-Date: 2013-09-17 16:03+0100\n"
+"PO-Revision-Date: 2013-09-17 16:03+0100\n"
+"Last-Translator: Derk Braakman <gadgets@404design.nl>\n"
+"Language-Team: \n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;_ex;_nx;esc_html__;esc_html_e;esc_html_x;"
+"esc_attr__;esc_attr_e;esc_attr_x;_n_noop;_nx_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../includes/widgetclass-bolcom.php:71
+msgid "The following error occurred within the bol.com Seller Widget: "
+msgstr "De volgende fout deed zich voor binnen de bol.com Verkopers Widget"
+
+#: ../includes/widgetclass-bolcom.php:86
+#: ../includes/widgetclass-bolcom.php:130
+#, fuzzy
+msgid "Title"
+msgstr "Titel"
+
+#: ../includes/widgetclass-bolcom.php:86 ../includes/widgetclass-bolcom.php:88
+msgid "Price"
+msgstr "Prijs"
+
+#: ../includes/widgetclass-bolcom.php:86
+msgid "Search for"
+msgstr "Zoek naar"
+
+#: ../includes/widgetclass-bolcom.php:86
+msgid "within sellers on bol.com."
+msgstr "onder de verkopers op bol.com."
+
+#: ../includes/widgetclass-bolcom.php:88
+msgid "Condition"
+msgstr "Conditie"
+
+#: ../includes/widgetclass-bolcom.php:88
+msgid "Comments"
+msgstr "Commentaar"
+
+#: ../includes/widgetclass-bolcom.php:120
+msgid "Are you buying one of my second hands books with bol.com"
+msgstr "Koop jij één van mijn 2e hands boeken bij bol.com"
+
+#: ../includes/widgetclass-bolcom.php:136
+msgid ""
+"Bol.com <a href=\"http://developers.bol.com/documentatie/aan-de-slag/\" "
+"target=\"_blank\">API key</a>"
+msgstr ""
+"Bol.com <a href=\"https://www.bol.com/sdd/preferences/account.html\" target="
+"\"_blank\">API key</a>:"
+
+#: ../includes/widgetclass-bolcom.php:142
+#, fuzzy
+msgid ""
+"Bol.com <a href=\"https://www.bol.com/sdd/preferences/account.html\" target="
+"\"_blank\">selleraccount id</a>:"
+msgstr ""
+"Bol.com <a href=\"https://www.bol.com/sdd/preferences/account.html\" target="
+"\"_blank\">verkoopaccount id</a>:"
+
+#: ../includes/widgetclass-bolcom.php:148
+msgid "Amount of products that you want to show"
+msgstr "Aantal producten welke je wilt laten zien"
+
+#: ../includes/widgetclass-bolcom.php:154
+msgid "The view that you want: (default: list view)"
+msgstr "Het beeld dat je wilt: (standaard: lijst weergave)"
+
+#: ../includes/widgetclass-bolcom.php:156
+msgid "list view"
+msgstr "lijst weergave"
+
+#: ../includes/widgetclass-bolcom.php:156
+msgid "tiled"
+msgstr "poster weergave"
+
+#~ msgid "Name"
+#~ msgstr "Naam"
+
+#~ msgid "Aantal producten dat je wilt tonen:"
+#~ msgstr "Aantal producten dat je wilt tonen"
